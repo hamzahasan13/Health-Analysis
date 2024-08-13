@@ -13,3 +13,5 @@ Miniforge3-MacOSX-arm64.sh/
 artifacts/*
 
 __pycache__/
+
+inputImage.jpg
