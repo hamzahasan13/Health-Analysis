@@ -12,4 +12,4 @@ Miniforge3-MacOSX-arm64.sh/
 .vscode
 artifacts/*
 
-src/cnnClassifier/__pycache__/*
+__pycache__/
