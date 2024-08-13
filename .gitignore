@@ -1,5 +1,15 @@
-health_env
+health_venv1
 
 logs/
 
-artifacts
+artifacts/*
+
+src/cnnClassifier/__pycache__/
+
+Miniforge3-MacOSX-arm64.sh/
+
+.venv/
+.vscode
+artifacts/*
+
+src/cnnClassifier/__pycache__/*
