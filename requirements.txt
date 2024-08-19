@@ -1,7 +1,3 @@
-#pip>=24
-#tensorflow
-#tensorflow-macos
-#tensorflow-metal
 pandas 
 dvc
 mlflow==2.2.2
